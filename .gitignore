@@ -1,0 +1,11 @@
+# Source documents and drafts kept outside the public website
+*.docx
+Ashutosh_Sharma_Portfolio_Public.pdf
+Ashutosh_Sharma_Tundra_Portfolio.pdf
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
