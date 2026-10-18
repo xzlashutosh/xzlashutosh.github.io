@@ -31,6 +31,7 @@
 .filter-button { appearance: none; background: transparent; border: 1px solid #e5d9da; color: #625a5b; padding: 10px 14px; border-radius: 2px; font: 500 10px var(--mono); cursor: pointer; transition: background .18s, border-color .18s, color .18s; }
 .filter-button:hover { border-color: #c42032; color: #a81c2b; }
 .filter-button.is-active { background: #c42032; border-color: #c42032; color: #fff; }
+.portfolio-card[hidden] { display: none !important; }
 .project-card[hidden] { display: none; }
 
 .visual-uav { background: #f8eded; }

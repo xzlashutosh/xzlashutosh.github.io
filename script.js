@@ -17,7 +17,7 @@ navigation?.querySelectorAll('a').forEach((link) => {
 });
 
 const filterButtons = document.querySelectorAll('.filter-button');
-const projectCards = document.querySelectorAll('.project-card[data-categories]');
+const projectCards = document.querySelectorAll('.portfolio-card[data-categories]');
 
 filterButtons.forEach((button) => {
   button.addEventListener('click', () => {
