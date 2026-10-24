@@ -1,6 +1,5 @@
 Local reference logos used on the About page timeline. They are included only to identify employers and education institutions; each remains the property of its respective owner.
 
-- Tundra Drone: https://www.tundradrone.com/ (logo asset on the official website)
 - GE HealthCare: https://brand.gehealthcare.com/brand-foundations/logos/ (official brand logo)
 - SINTEF: https://www.sintef.no/ and https://sintef.imageshop.no/1622606/Search/?c=87345 (official site and media bank)
 - SSIs: https://ssi-master.eu/ (programme wordmark from the official programme site)
