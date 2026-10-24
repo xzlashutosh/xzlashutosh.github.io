@@ -1,3 +1,4 @@
+- Tundra Drone: https://www.tundradrone.com/ (logo from the official website)
 Local reference logos used on the About page timeline. They are included only to identify employers and education institutions; each remains the property of its respective owner.
 
 - GE HealthCare: https://brand.gehealthcare.com/brand-foundations/logos/ (official brand logo)
